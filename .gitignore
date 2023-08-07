@@ -1,0 +1,8 @@
+.DS_Store
+*node_modules*
+*sublime*
+*npm-debug*
+
+.aws-sam/
+images*
+
